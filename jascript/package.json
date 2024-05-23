@@ -1,0 +1,11 @@
+{
+  "name": "jascript",
+  "version": "1.0.0",
+  "description": "learning javascript",
+  "main": "string.js",
+  "scripts": {
+    "test": "node es6.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

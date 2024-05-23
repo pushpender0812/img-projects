@@ -1,0 +1,5 @@
+redux: state management ke liye
+redux ka use without props drilling state ko khi se bhi access krne or state ko change krne ke liye kiya 
+jaata hai
+
+immer library : - 
