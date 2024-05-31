@@ -37,7 +37,7 @@ const handleDeleteItem = (id) => {
 
   return (
     <>
-    <div className='grid grid-cols-3 gap-3'>
+    <div className='grid grid-cols-3 gap-3 mt-10'>
       {items.map((item) => (
         
          <div className="card h-[650px] w-[700px] bg-orange-500 rounded-3xl border-dotted border-4 border-indigo-600" key={item.id}>

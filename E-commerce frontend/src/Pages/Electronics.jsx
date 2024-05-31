@@ -19,7 +19,7 @@ function Electronics() {
  },[])
 
   return (
-    <div className="grid grid-cols-3 gap-4">
+    <div className="grid grid-cols-3 gap-4 mt-12">
         
       {filterproducts.map((product) => (
         

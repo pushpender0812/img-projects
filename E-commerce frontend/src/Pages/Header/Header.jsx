@@ -12,7 +12,7 @@ function Header() {
      
        
       
-    <div className='justify-between items-center flex bg-transparent h-20 text-white font-bold text-2xl rounded-3xl'>
+    <div className='fixed top-0    justify-between items-center  gap-28 flex bg-transparent h-20 text-white font-bold text-2xl rounded-3xl md-10 bg-slate-600'>
      
         <NavLink to="/"> <p className=' cursor-pointer hover:underline text-orange-400' >Home</p></NavLink>
         <NavLink to="/men"> <p className=' cursor-pointer hover:underline text-orange-400'>Mens'wear</p></NavLink>

@@ -19,7 +19,7 @@ function All() {
 
 
   return (
-    <div className="grid grid-cols-3 gap-4">
+    <div className="grid grid-cols-3 gap-4 mt-12">
       {products.map((product) => (
         <div className="card h-[600px] bg-orange-500 rounded-3xl border-dotted border-4 border-indigo-600" key={product.id}>
           <img src={product.image} className="h-[200px]" alt="Denim Jeans"  />
